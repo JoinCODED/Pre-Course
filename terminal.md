@@ -1,0 +1,71 @@
+# References
+
+- Terminal Cheat Sheet: https://github.com/0nn0/terminal-mac-cheatsheet#english-version
+- Command History Cheat Sheet: https://github.com/0nn0/terminal-mac-cheatsheet#command-history
+
+# Finder Folders
+
+1. Open Finder
+2. See there's an example folder with name "MyProjects"
+3. "Go into" the folder
+4. Now we are _inside_ the folder.
+
+# Folders are directories
+
+1. Open Terminal
+2. Use `ls` to see example directory "MyProjects"
+3. Use `cd` to "go into" the folder/directory.
+4. Now we are _inside_ the directory.
+5. `ls` to see what's inside.
+
+## Why would we use the Terminal?
+
+It's a powerful tool. You can't fully appreciate it now, you need experience.
+
+For now, just try to get used to using it.
+
+## Slack:
+
+```
+Terminal Commands:
+
+- `ls`: Lists files and directories.
+- `cd`: Changes directory.
+```
+
+## Take 5 minutes to explore these commands and navigate the directories in your computer.
+
+# New Directory
+
+Inside "MyProjects":
+
+1. Use `mkdir` to create a new directory with the name "NewWebsite".
+2. Use `cd` to navigate into the new directory.
+3. Use `pwd` to show you are inside the new directory.
+
+# Task (10 min)
+
+1. Use the cheat sheet in the References section above and explore the Terminal.
+2. Create a directory called "Development" either in your home directory (mac/linux) or in your Desktop (windows). You'll put all your work in the bootcamp in this Development directory.
+
+# Command History
+
+1. Hit the up arrow.
+2. `history`.
+3. `!X` to execute old command.
+
+# Command Structure
+
+Example commands to dissect and explain:
+
+1. `ls`
+2. `ls Development`
+3. `mkdir example1 example2`
+
+## Take 5 minutes to explore command history, use the reference link above.
+
+# List of Commands
+
+- `ls`: Lists files and folders in the current working directory.
+- `cd`: Changes the current working directory.
+- `pwd`: Shows the location of the current working directory.
