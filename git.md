@@ -1,4 +1,6 @@
-# References?
+# References
+
+- Example repo: https://github.com/JoinCODED/pre-course-git
 
 # What is git?
 
