@@ -1,7 +1,3 @@
-# Variables
-
-## Discussion
-
 ### Topics to discuss:
 
 - What is programming?

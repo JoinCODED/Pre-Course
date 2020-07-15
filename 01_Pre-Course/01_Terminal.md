@@ -1,7 +1,3 @@
-# Terminal
-
-## Discussion
-
 ### Topics to discuss:
 
 - Navigating the file system in the Terminal.

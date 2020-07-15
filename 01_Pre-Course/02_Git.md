@@ -1,7 +1,3 @@
-# Git
-
-## Discussion
-
 ### Topics to discuss:
 
 - What is git?

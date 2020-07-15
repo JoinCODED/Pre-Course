@@ -1,7 +1,3 @@
-# Conditional Statements
-
-## Discussion
-
 ### Topics to discuss:
 
 - Boolean values

@@ -1,7 +1,3 @@
-# Arrays and Loops
-
-## Discussion
-
 ### Topics to discuss:
 
 - Arrays

@@ -1,7 +1,3 @@
-# Functions
-
-## Discussion
-
 ### Topics to discuss:
 
 - Functions in JavaScript
